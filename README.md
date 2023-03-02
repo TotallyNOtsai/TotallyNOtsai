@@ -1,7 +1,6 @@
 
 
 - 👋 Hi, I’m @TotallyNOtsai
-- discord user tag - not_sai#0984
 - youtube - https://www.youtube.com/watch?v=dQw4w9WgXcQ
 <!-- 
 - 👀 I’m interested in Ai,Machine learning,Game dev
